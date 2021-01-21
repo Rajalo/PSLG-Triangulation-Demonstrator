@@ -3,7 +3,7 @@ import java.awt.*;
 import java.util.ArrayList;
 
 public class Main {
-    public static JFrame frame = new JFrame("Guarding Problem Tool");
+    public static JFrame frame = new JFrame("PSLG Triangulation Demonstrator");
     public static GraphPanel gpanel;
     public static AlgebraPanel algebraPanel;
 
